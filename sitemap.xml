@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/hello-world/</loc>
+    <loc>/blog-template/posts/hello-world/</loc>
     <lastmod>2019-08-06T15:56:06+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-08-06T15:56:06+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>/blog-template/posts/</loc>
     <lastmod>2019-08-06T15:56:06+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/blog-template/</loc>
+    <lastmod>2019-08-06T15:56:06+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/blog-template/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/blog-template/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog-template/tags/</loc>
     <priority>0</priority>
   </url>
   
