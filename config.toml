@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/blog-template"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
