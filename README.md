@@ -13,4 +13,4 @@ Travis CI
 
 ### Creating a post
 Install hugo
-- hugo new post posts/hello-world.md
+- `hugo new post posts/hello-world.md`
