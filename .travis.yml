@@ -1,11 +1,10 @@
-os: osx
-
+dist: trusty
 install:
-  - brew update
-  - brew install hugo
+  - wget -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v0.56.3/hugo_0.56.3_Linux-64bit.tar.gz
+  - tar -xvf hugo.tar.gz
 
 script:
-  - hugo
+  - ./hugo
 
 deploy:
   local_dir: public
